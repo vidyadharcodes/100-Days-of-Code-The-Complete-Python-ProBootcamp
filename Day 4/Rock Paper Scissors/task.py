@@ -65,3 +65,5 @@ if user_choice == '2':
     if Computer_choice == 'rock':
         print('Computer chose:\n', rock)
         print('You lose')
+else:
+    print('Invalid choice')
